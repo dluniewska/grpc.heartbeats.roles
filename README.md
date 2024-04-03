@@ -6,7 +6,6 @@
 To implement library it needs to install packages:
 
 - Google.Protobuf (3.26.1)
-- Grpc.Core (2.46.1)
 - Grpc.Net.Client (2.62.0)
 
 ## Server
